@@ -1,37 +1,71 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/1zhi/About/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# 关于壹志
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**「楚辞·九章·橘颂」**
 
-```markdown
-Syntax highlighted code block
+> 后皇嘉树，橘徕服兮。 受命不迁，生南国兮。 深固难徙，更**壹志**兮。 绿叶素荣，纷其可喜兮。
 
-# Header 1
-## Header 2
-### Header 3
+解释：后土皇天的美好橘树，它生来适应这片土地啊。秉承天地之命绝不外迁，扎根生长在南方大地啊。根深牢固难以迁徙，更加具有专一的心志啊。绿色的叶子白色的花朵，缤纷茂盛惹人喜爱啊。
 
-- Bulleted
-- List
+— 中华书局 楚辞 2015年1月北京第2版 P155页
 
-1. Numbered
-2. List
+**「史记·秦始皇本纪」**
 
-**Bold** and _Italic_ and `Code` text
+> 普天之下，抟心揖志
 
-[Link](url) and ![Image](src)
-```
+成语抟心**壹志**（tuán xīn yī zhì）同抟心揖志（tuán xīn yī zhì），指专心一志。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+— 解释来自网络
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/1zhi/About/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+壹志壹志，抟心壹志。高中班主任评语：忌三心二意，半途而废。取此笔名，希望自己懂得专注，学会聚焦，敢于说不。
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Logo 是一只橘子，有点抽象，暂时没有更好的想法...使用[tailorbrands](http://tailorbrands.com) 设计。
+
+
+
+### 习惯
+
+如果一件事要做十年以上，立刻开始，成为自己的习惯：
+
+- 每晚回到家先读书，2020年8月至今
+
+- 晚8点开始运动，2020年7月至今，目前主要在做空击
+
+- 7*24小时不间断时间记录2019年至今
+
+- Scrum应用于个人日常生活，2020年8月至今
+
+    - Personal Daily Scrum，2020年8月至今
+
+    - 周末写周报，Review本周生活，2020年2月至今
+
+
+
+### 事业
+
+我的工作和生活无法分开，事业更适合描述。我尝试过一些职业，并不适合，不是职业的问题，职业和我的化学反应没有预期中的擦枪走火。
+
+产品汪是最贴合的角色，有足够的腾挪空间，优秀的产品人一定是思考者，人性洞察者。别人在生活，我在工作，思考，还能看娃，关心家人，这是最好不过的选择了。
+
+
+
+### 联系
+
+Email：contact#1zhi.so （#替换@）
+
+Github：[@1zhi](https://github.com/1zhi)
+
+Website：建设中
+
+
+
+### ChangLog
+
+2020-08-08 确定壹志笔名、域名等信息
+
+2020-08-15 v1，完成初版说明，2h
+
